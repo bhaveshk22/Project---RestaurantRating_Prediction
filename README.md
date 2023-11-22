@@ -9,7 +9,8 @@ This repository contains a 'Flask Restaurant Rating Predictor'. It is a Flask-ba
 
 ## Screenshots
 
-![App Screenshot](https://github.com/bhaveshk22/Project---RestaurantRating_Prediction/blob/main/image.png?raw=true)
+![image](https://github.com/bhaveshk22/Project---RestaurantRating_Prediction/assets/141263853/2041d068-5e08-442f-8971-bd495a962b12)
+
 
 
 ## Roadmap
